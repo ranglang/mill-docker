@@ -6,7 +6,7 @@ import mill._, scalalib._
 
 // import $ivy.`io.github.vic::mill-docker:latest`
 // import mill.docker._
-  val korolevVersion = "0.16.3"
+  val korolevVersion = "0.17-M1"
   val akkaVersion="2.6.5"
 val akkaHttpVersion="10.1.12"
 
